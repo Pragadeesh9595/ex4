@@ -163,9 +163,7 @@ aduthurai.html
 ## OUTPUT
 <img width="1908" height="785" alt="4 aduthrai" src="https://github.com/user-attachments/assets/1a47de73-8629-4c51-b2f8-ac3cc663224a" />
 <img width="837" height="743" alt="map" src="https://github.com/user-attachments/assets/804457df-a0fb-41d2-a1aa-4e0421a6e0fd" />
-
-<img width="1920" height="1080" alt="0 kumbakonam" src="https://github.com/user-attachments/assets/36ea5349-bdf0-4a6a-b3ce-86b2f75fd9cb" />
-
+<img width="1920" height="1080" alt="0 kumbakonam" src="https://github.com/user-attachments/assets/a0538c70-02be-46e7-9284-32d84d211496" />
 <img width="1920" height="1080" alt="3 valangai" src="https://github.com/user-attachments/assets/7d3932e4-a0c7-4fb3-954a-6587c1ba9bb6" />
 
 ## RESULT 
